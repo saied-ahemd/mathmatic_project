@@ -1,2 +1,2 @@
 # mathmatic_project
-this proect is a javascript project
+this proect is a html and css project
